@@ -1,1 +1,38 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: BuilAPK
+name: 编译APP
+email: idea@buildapk.com
+description: > # this means to ignore newlines until "baseurl:"
+  来嘛，编译一下。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://buildapk.com" # the base hostname & protocol for your site
+
+timezone: Asia/Shanghai
+
+# name
+highlighter: rouge
+permalink: /:categories/:title.html
+
+# sns
+author: fire
+twitter_username: micneer
+github_username:  micneer
+
+# Pages
+gems: [jekyll-paginate]
+paginate: 50
+paginate_path: "p:num"
+
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  use_coderay: true
+  extensions:
+    -autolink
+    -footnotes
+    -smart
+  syntax_highlighter: rouge
+  coderay: 
+    coderay_line_numbers: nil
