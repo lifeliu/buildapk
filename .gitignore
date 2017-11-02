@@ -1,3 +1,7 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+_site
+.svn
+.DS_Store
+.sass-cache
+*.sh
+*.txt
+*.lock
