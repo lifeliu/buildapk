@@ -2,8 +2,6 @@
 layout: post
 title: ^M:bad interpreter:解决方法
 subtitle: Each post also has a subtitle
-author: fire
-source: http://fireliu.com
 categories: linux 
 tags: shell
 ---

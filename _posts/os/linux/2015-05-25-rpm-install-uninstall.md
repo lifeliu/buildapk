@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RPM软件包的安装及卸载
-author: fire
 categories: linux 
 tags: rpm install unintall
 ---

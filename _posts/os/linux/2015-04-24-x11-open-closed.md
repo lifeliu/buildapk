@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Linux关闭X11图形界面启动
-author: fire
 categories: linux 
 tags: x11
 ---

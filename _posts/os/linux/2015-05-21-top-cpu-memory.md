@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Linux 查看CPU和内存使用前10的进程
-author: fire
 categories: linux 
 tags: cpu memory
 ---

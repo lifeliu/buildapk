@@ -1,9 +1,6 @@
 ---
 layout: post
 title: CentOS6开机自动启动SVN服务的方法
-subtitle: Each post also has a subtitle
-author: fire
-source: http://fireliu.com
 categories: linux 
 tags: markdown, write
 ---

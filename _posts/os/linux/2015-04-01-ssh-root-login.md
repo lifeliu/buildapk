@@ -2,8 +2,6 @@
 layout: post
 title: CentOS6.x 远程SSH登录
 subtitle: CentOS 6.X ssh root login
-author: fire
-source: http://fireliu.com
 categories: linux 
 tags: network ssh
 ---
