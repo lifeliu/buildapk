@@ -17,6 +17,4 @@ pch文件的作用：
 
     3.能自动打开或者关闭日志输出功能
 
-![折耳猫](http://image.sideproject.cn/zheermao.jpg)
-
 ---Read More---
