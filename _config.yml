@@ -3,7 +3,7 @@ title: BuilAPK
 name: APK
 email: build@buildapk.com
 description: > # this means to ignore newlines until "baseurl:"
-  来嘛，编译一下。
+  编译一下，你就知道。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://buildapk.com" # the base hostname & protocol for your site
 
