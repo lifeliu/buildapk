@@ -1,5 +1,4 @@
 # baohuzhong.github.io
 
-[buildapk](buildapk.com)
+[BUILDAPK.COM](buildapk.com)
 
-![折耳猫](http://image.sideproject.cn/zheermao.jpg)
