@@ -10,11 +10,11 @@ date: 2022/10/01 22:00:00
 
 跨平台开发 App 的技术和工具很多，以下是其中一些比较流行的：
 
-1. Flutter：由谷歌推出的跨平台移动应用开发框架，支持使用一套代码同时开发 iOS 和 Android 应用。
-2. React Native：由 Facebook 推出的跨平台移动应用开发框架，支持使用 JavaScript 和 React 开发 iOS 和 Android 应用。
-3. Ionic：一个基于 Angular 和 Apache Cordova 的开源移动应用开发框架，使用 HTML、CSS 和 JavaScript 开发跨平台移动应用。
-4. Xamarin：由微软推出的跨平台移动应用开发框架，使用 C# 和 .NET 开发 iOS、Android 和 Windows Phone 应用。
-5. UniApp：由中国企业腾讯推出的跨平台移动应用开发框架，使用 Vue.js 开发 iOS、Android、H5 等应用。
+- Flutter：由谷歌推出的跨平台移动应用开发框架，支持使用一套代码同时开发 iOS 和 Android 应用。
+- React Native：由 Facebook 推出的跨平台移动应用开发框架，支持使用 JavaScript 和 React 开发 iOS 和 Android 应用。
+- Ionic：一个基于 Angular 和 Apache Cordova 的开源移动应用开发框架，使用 HTML、CSS 和 JavaScript 开发跨平台移动应用。
+- Xamarin：由微软推出的跨平台移动应用开发框架，使用 C# 和 .NET 开发 iOS、Android 和 Windows Phone 应用。
+- UniApp：由中国企业腾讯推出的跨平台移动应用开发框架，使用 Vue.js 开发 iOS、Android、H5 等应用。
 
 这些跨平台开发技术和工具可以大大提高移动应用开发的效率和质量，同时也可以减少开发成本和开发周期。
 
