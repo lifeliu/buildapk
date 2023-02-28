@@ -3,7 +3,7 @@ layout: post
 title: Xamarin平台简介
 categories: app 
 tags: APP
-date: 2022/10/04 22:00:00
+date: 2022/05/04 22:00:00
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_221.jpg)
