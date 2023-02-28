@@ -8,23 +8,14 @@ date: 2022/6/1 22:00:00
 
 **Android原生开发需要掌握以下技术**：
 
-```
-- Java语言：Android开发主要使用Java语言进行编码。开发者需要掌握Java语言的基础知识和高级特性，如泛型、多线程、集合框架等。
-
-- Android框架：Android框架是一个提供各种API和组件的大型软件体系，包括四个主要组件：Activity、Service、BroadcastReceiver和ContentProvider。开发者需要深入了解每个组件的作用、生命周期和使用方式。
-
-- Android UI设计：Android应用程序的用户界面是通过XML文件进行布局的。开发者需要掌握Android UI控件和布局的使用方式，以及如何使用样式和主题来美化应用程序。
-
-- 数据库：Android应用程序通常需要使用数据库来存储数据。开发者需要掌握Android自带的SQLite数据库的使用方式。
-
-- 网络编程：Android应用程序通常需要与网络进行交互，如获取Web服务数据、下载文件等。开发者需要掌握Android提供的网络编程API，如HttpURLConnection和OkHttp等。
-
-- 多媒体：Android应用程序可以使用多媒体功能，如音频、视频、图像等。开发者需要掌握Android提供的多媒体API和相关的处理技术。
-
-- 性能优化：为了提高应用程序的性能和响应速度，开发者需要了解如何进行性能优化，如使用异步处理、缓存机制、线程池等技术。
-
-- 调试技能：Android开发过程中常常需要进行调试，开发者需要掌握如何使用Android Studio中的调试工具、日志输出和分析等技术。
-```
+1. Java语言：Android开发主要使用Java语言进行编码。开发者需要掌握Java语言的基础知识和高级特性，如泛型、多线程、集合框架等。
+2. Android框架：Android框架是一个提供各种API和组件的大型软件体系，包括四个主要组件：Activity、Service、BroadcastReceiver和ContentProvider。开发者需要深入了解每个组件的作用、生命周期和使用方式。
+3. Android UI设计：Android应用程序的用户界面是通过XML文件进行布局的。开发者需要掌握Android UI控件和布局的使用方式，以及如何使用样式和主题来美化应用程序。
+4. 数据库：Android应用程序通常需要使用数据库来存储数据。开发者需要掌握Android自带的SQLite数据库的使用方式。
+5. 网络编程：Android应用程序通常需要与网络进行交互，如获取Web服务数据、下载文件等。开发者需要掌握Android提供的网络编程API，如HttpURLConnection和OkHttp等。
+6. 多媒体：Android应用程序可以使用多媒体功能，如音频、视频、图像等。开发者需要掌握Android提供的多媒体API和相关的处理技术。
+7. 性能优化：为了提高应用程序的性能和响应速度，开发者需要了解如何进行性能优化，如使用异步处理、缓存机制、线程池等技术。
+8. 调试技能：Android开发过程中常常需要进行调试，开发者需要掌握如何使用Android Studio中的调试工具、日志输出和分析等技术。
 
 除了上述技术，开发者还需要了解Android系统的基本架构、应用程序发布流程、Android安全性等方面的知识。
 
