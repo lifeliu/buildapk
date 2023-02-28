@@ -6,6 +6,8 @@ tags: APP
 date: 2022/6/1 22:00:00
 ---
 
+![title](https://image.sideproject.cn/titlex/titlex_238.jpg)
+
 **Android原生开发需要掌握以下技术**：
 
 1. Java语言：Android开发主要使用Java语言进行编码。开发者需要掌握Java语言的基础知识和高级特性，如泛型、多线程、集合框架等。
@@ -23,10 +25,10 @@ date: 2022/6/1 22:00:00
 
 Android系统的基本架构分为四层，分别是应用程序层、应用程序框架层、系统运行库层和Linux内核层。下面分别介绍这四层的主要组成部分。
 
-- 应用程序层：这是用户与Android系统交互的界面层，包括各种应用程序、启动器、系统界面、系统服务等。
-- 应用程序框架层：这是应用程序和系统运行库之间的桥梁，提供了丰富的API和组件，包括Activity Manager、Content Providers、View System、Resource Manager、Notification Manager等。
-- 系统运行库层：这是Android系统提供的底层服务和运行环境，包括Dalvik虚拟机、核心库、SQLite数据库、OpenGL ES 3D图形库等。
-- Linux内核层：这是Android系统的核心部分，提供了各种底层驱动程序和服务，如进程管理、内存管理、安全性、网络协议栈等。
+1. 应用程序层：这是用户与Android系统交互的界面层，包括各种应用程序、启动器、系统界面、系统服务等。
+2. 应用程序框架层：这是应用程序和系统运行库之间的桥梁，提供了丰富的API和组件，包括Activity Manager、Content Providers、View System、Resource Manager、Notification Manager等。
+3. 系统运行库层：这是Android系统提供的底层服务和运行环境，包括Dalvik虚拟机、核心库、SQLite数据库、OpenGL ES 3D图形库等。
+4. Linux内核层：这是Android系统的核心部分，提供了各种底层驱动程序和服务，如进程管理、内存管理、安全性、网络协议栈等。
 
 Android系统的架构具有模块化、分层、组件化的特点，使得开发者可以方便地开发和调试应用程序，同时提高了系统的稳定性和可维护性。
 

@@ -6,6 +6,8 @@ tags: APP
 date: 2022/11/1 22:00:00
 ---
 
+![title](https://image.sideproject.cn/titlex/titlex_241.jpg)
+
 iOS原生开发需要掌握的技术包括以下几个方面：
 
 - Swift/Objective-C编程语言：iOS原生开发主要使用Swift和Objective-C两种编程语言，开发者需要熟悉它们的语法和特性。
