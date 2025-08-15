@@ -2,7 +2,7 @@
 layout: post
 title: "Flutter动画系统深度解析：从基础到高级动画实现"
 date: 2024-01-18
-categories: [Flutter, 移动开发, 动画]
+categories: flutter
 tags: [Flutter, Animation, UI, 性能优化, 自定义动画]
 author: "Flutter开发团队"
 description: "深入探讨Flutter动画系统的核心原理、实现机制和最佳实践，包括基础动画、自定义动画、复杂动画组合、性能优化等内容，帮助开发者构建流畅优雅的用户界面。"

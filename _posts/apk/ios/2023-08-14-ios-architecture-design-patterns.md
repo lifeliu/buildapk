@@ -2,7 +2,7 @@
 layout: post
 title: "iOS应用架构设计模式深度解析：MVC、MVP、MVVM与VIPER实战指南"
 date: 2023-08-14
-categories: [iOS, Architecture, Design Patterns]
+categories: ios
 tags: [iOS, MVC, MVP, MVVM, VIPER, Architecture, Swift, Objective-C]
 author: "iOS Developer"
 description: "深入探讨iOS应用架构设计模式，包括MVC、MVP、MVVM和VIPER的原理、实现和最佳实践，帮助开发者构建可维护、可测试的iOS应用。"

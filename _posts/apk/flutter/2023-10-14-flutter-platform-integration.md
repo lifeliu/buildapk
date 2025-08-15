@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flutter平台集成与原生交互深度解析"
-categories: [Flutter, 移动开发, 跨平台]
+categories: flutter
 tags: [Flutter, Platform Channel, 原生交互, iOS, Android, 插件开发]
 date: 2023-10-14
 image: https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png

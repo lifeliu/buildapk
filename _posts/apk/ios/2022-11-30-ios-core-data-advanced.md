@@ -2,7 +2,7 @@
 layout: post
 title: "iOS Core Data高级应用：数据持久化与性能优化深度解析"
 date: 2022-11-30 10:15:00 +0800
-categories: [iOS, 数据库]
+categories: ios
 tags: [iOS, Core Data, 数据持久化, 性能优化, NSManagedObject]
 author: iOS技术团队
 description: "深入探讨iOS Core Data框架的高级特性，包括数据模型设计、性能优化、多线程处理和最佳实践"

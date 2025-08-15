@@ -2,7 +2,7 @@
 layout: post
 title: "Flutter架构设计模式深度解析：构建可维护的大型应用"
 date: 2023-09-15
-categories: [Flutter, 架构设计, 设计模式]
+categories: flutter
 tags: [Flutter, Architecture, Design Patterns, MVVM, BLoC, Clean Architecture, Provider, Riverpod]
 author: "Flutter开发团队"
 description: "深入探讨Flutter应用的架构设计模式，包括MVVM、BLoC、Clean Architecture等主流架构模式的实现与最佳实践，帮助开发者构建可维护、可扩展的大型Flutter应用。"

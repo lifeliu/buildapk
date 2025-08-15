@@ -2,7 +2,7 @@
 layout: post
 title: "iOS多线程编程深度解析：GCD与NSOperation实战指南"
 date: 2022-09-22 16:45:00 +0800
-categories: [iOS, 多线程]
+categories: ios
 tags: [iOS, GCD, NSOperation, 多线程, 并发编程]
 author: iOS技术团队
 description: "深入探讨iOS多线程编程技术，包括GCD和NSOperation的原理、使用场景和最佳实践"

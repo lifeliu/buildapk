@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flutter插件开发与发布完整指南"
-categories: [Flutter, 插件开发, 发布]
+categories: flutter
 tags: [Flutter, Plugin, Package, 插件开发, 发布, pub.dev]
 date: 2022-11-25
 image: https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png

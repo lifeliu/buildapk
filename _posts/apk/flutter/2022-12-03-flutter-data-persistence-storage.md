@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flutter数据持久化与本地存储深度解析"
-categories: [Flutter, 移动开发, 数据存储]
+categories: flutter
 tags: [Flutter, SharedPreferences, SQLite, Hive, 数据持久化, 本地存储, 数据库]
 date: 2022-12-03 14:30:00 +0800
 image: https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png

@@ -2,7 +2,7 @@
 layout: post
 title: "iOS UI编程深度解析：自定义控件开发与高级界面技术"
 date: 2024-01-18
-categories: [iOS, UI, 自定义控件]
+categories: ios
 tags: [iOS, UIKit, 自定义控件, 界面开发, Core Animation]
 author: "iOS开发工程师"
 description: "深入探讨iOS UI编程的高级技术，包括自定义控件开发、Core Animation应用、界面性能优化等核心内容，帮助开发者构建流畅美观的用户界面。"

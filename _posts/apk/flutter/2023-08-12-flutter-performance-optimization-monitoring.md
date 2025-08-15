@@ -2,7 +2,7 @@
 layout: post
 title: "Flutter性能优化与监控深度解析"
 date: 2023-08-12 10:30:00 +0800
-categories: [Flutter, 性能优化, 监控]
+categories: flutter
 tags: [Flutter, Performance, Optimization, Monitoring, Profiling]
 author: "Flutter开发团队"
 description: "深入探讨Flutter应用性能优化策略、性能监控工具使用、内存管理、渲染优化等核心技术，提供完整的性能分析和优化解决方案。"

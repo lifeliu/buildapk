@@ -2,7 +2,7 @@
 layout: post
 title: "iOS内存管理与ARC机制深度解析"
 date: 2023-05-15 14:30:00 +0800
-categories: [iOS, 内存管理]
+categories: ios
 tags: [iOS, ARC, 内存管理, Objective-C, Swift]
 author: iOS技术团队
 description: "深入解析iOS应用程序的内存管理机制，包括ARC的工作原理、内存泄漏检测与优化策略"

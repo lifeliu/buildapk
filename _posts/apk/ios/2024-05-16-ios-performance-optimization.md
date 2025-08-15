@@ -2,7 +2,7 @@
 layout: post
 title: "iOS性能优化深度解析：内存管理、渲染优化与启动加速实战指南"
 date: 2024-05-16
-categories: [iOS, 性能优化, 内存管理]
+categories: ios
 tags: [iOS, Performance, Memory, Rendering, Launch]
 author: "iOS技术专家"
 description: "深入探讨iOS应用性能优化的核心技术，包括内存管理策略、UI渲染优化、应用启动加速、网络性能优化等关键领域，提供实用的优化方案和最佳实践。"

@@ -2,7 +2,7 @@
 layout: post
 title: "iOS网络编程深度解析：URLSession与现代网络架构设计"
 date: 2024-03-08 14:20:00 +0800
-categories: [iOS, 网络编程]
+categories: ios
 tags: [iOS, URLSession, 网络架构, HTTP, WebSocket]
 author: iOS技术团队
 description: "深入探讨iOS网络编程技术，包括URLSession的原理、使用方法和现代网络架构设计模式"

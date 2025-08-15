@@ -2,7 +2,7 @@
 layout: post
 title: "iOS安全编程深度解析：数据保护、网络安全与应用防护实战指南"
 date: 2023-12-08
-categories: [iOS, 安全编程, 数据保护, 网络安全]
+categories: ios
 tags: [iOS, Security, Encryption, Keychain, Network Security, App Protection]
 author: iOS技术专家
 description: "深入探讨iOS安全编程的核心技术，包括数据加密、Keychain服务、网络安全、应用防护等关键安全措施的实现与最佳实践。"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flutter测试与调试技术深度解析"
-categories: [Flutter, 测试, 调试]
+categories: flutter
 tags: [Flutter, 单元测试, Widget测试, 集成测试, 调试工具, 性能分析]
 date: 2024-05-28
 image: https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png
