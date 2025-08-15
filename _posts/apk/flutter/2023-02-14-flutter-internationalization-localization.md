@@ -7,8 +7,6 @@ date: 2023-02-14
 image: https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png
 ---
 
-# Flutter国际化与本地化深度解析
-
 在全球化的今天，移动应用需要支持多种语言和地区设置，以满足不同用户的需求。Flutter提供了强大的国际化（Internationalization，简称i18n）和本地化（Localization，简称l10n）支持，使开发者能够轻松创建多语言应用。本文将深入探讨Flutter国际化与本地化的实现原理、最佳实践和高级技巧。
 
 ## 国际化与本地化基础概念

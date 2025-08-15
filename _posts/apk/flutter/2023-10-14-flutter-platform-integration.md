@@ -7,8 +7,6 @@ date: 2023-10-14
 image: https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png
 ---
 
-# Flutter平台集成与原生交互深度解析
-
 Flutter作为跨平台开发框架，虽然提供了丰富的Widget和功能，但在实际开发中，我们经常需要与原生平台进行交互，访问平台特定的API和功能。本文将深入探讨Flutter平台集成的各个方面，包括Platform Channel的工作原理、原生插件开发、以及与iOS和Android平台的深度集成。
 
 ## Platform Channel架构原理
