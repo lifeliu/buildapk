@@ -23,6 +23,15 @@ group :jekyll_plugins do
   gem "jekyll-paginate", "~> 1.0"
   gem "jekyll-sitemap", "~>1.1"
   gem "jekyll-seo-tag", "~>2.6"
+  gem "jekyll-coffeescript"
+  gem "jekyll-commonmark-ghpages"
+  gem "jekyll-gist"
+  gem "jekyll-github-metadata"
+  gem "jekyll-relative-links"
+  gem "jekyll-optional-front-matter"
+  gem "jekyll-readme-index"
+  gem "jekyll-default-layout"
+  gem "jekyll-titles-from-headings"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
