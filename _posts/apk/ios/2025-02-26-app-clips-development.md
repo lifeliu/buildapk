@@ -2,8 +2,8 @@
 layout: post
 title: iOS App Clips 轻应用开发指南
 categories: ios
-tags: [App Clips, 轻应用, 即时体验, iOS]
-date: 2025/2/26 14:00:00
+tags: [iOS, App Clips]
+date: 2025-02-26
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_068.jpg)

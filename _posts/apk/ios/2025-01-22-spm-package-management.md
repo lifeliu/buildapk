@@ -2,8 +2,8 @@
 layout: post
 title: Swift Package Manager 包管理完全指南
 categories: ios
-tags: [SPM, Swift Package, 依赖管理, Xcode]
-date: 2025/1/22 09:00:00
+tags: [iOS, SPM]
+date: 2025-01-22
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_063.jpg)

@@ -2,8 +2,8 @@
 layout: post
 title: iOS StoreKit 应用内购买完全指南
 categories: ios
-tags: [StoreKit, 应用内购买, IAP, 订阅, iOS]
-date: 2024/12/12 11:00:00
+tags: [iOS, StoreKit]
+date: 2024-12-12
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_058.jpg)

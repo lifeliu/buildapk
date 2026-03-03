@@ -2,8 +2,8 @@
 layout: post
 title: iOS XCUITest UI 自动化测试指南
 categories: ios
-tags: [XCUITest, UI 测试, 自动化测试, iOS]
-date: 2024/11/25 14:00:00
+tags: [iOS, XCUITest]
+date: 2024-11-25
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_056.jpg)

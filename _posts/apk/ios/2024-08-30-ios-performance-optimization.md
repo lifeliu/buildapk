@@ -3,7 +3,7 @@ layout: post
 title: "iOS性能优化深度解析：内存管理、CPU优化与渲染性能实战指南"
 date: 2024-08-30
 categories: ios
-tags: [iOS, Swift, Objective-C, 性能优化, 内存管理, CPU优化, 渲染性能, Instruments]
+tags: [iOS, 性能优化]
 author: "iOS技术专家"
 description: "深入探讨iOS应用性能优化的核心技术，包括内存管理、CPU优化、渲染性能提升等关键领域，提供完整的性能监控和优化解决方案。"
 keywords: "iOS性能优化, 内存管理, CPU优化, 渲染性能, Instruments, 性能监控, iOS开发"

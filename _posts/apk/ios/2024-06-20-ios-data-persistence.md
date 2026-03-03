@@ -3,7 +3,7 @@ layout: post
 title: "iOS数据持久化深度解析：Core Data、SQLite与文件存储实战指南"
 date: 2024-06-20
 categories: ios
-tags: [iOS开发, 数据存储, Core Data, SQLite, 文件存储, 数据库, 性能优化]
+tags: [iOS, Core Data]
 author: iOS技术专家
 description: "深入解析iOS数据持久化技术，包括Core Data、SQLite、文件存储等多种方案的实现原理、最佳实践和性能优化策略。"
 keywords: [iOS数据持久化, Core Data, SQLite, 文件存储, 数据库优化, iOS开发]

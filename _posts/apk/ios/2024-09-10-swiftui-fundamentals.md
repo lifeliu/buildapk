@@ -2,8 +2,8 @@
 layout: post
 title: SwiftUI 声明式 UI 开发完全指南
 categories: ios
-tags: [SwiftUI, 声明式UI, iOS, Swift, 视图]
-date: 2024/9/10 10:00:00
+tags: [iOS, SwiftUI]
+date: 2024-09-10
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_050.jpg)

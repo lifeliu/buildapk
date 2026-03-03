@@ -2,8 +2,8 @@
 layout: post
 title: iOS原生开发需要掌握的技术
 categories: ios 
-tags: APP
-date: 2022/11/1 22:00:00
+tags: [iOS, APP]
+date: 2022-11-01
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_069.jpg)

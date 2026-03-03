@@ -3,7 +3,7 @@ layout: post
 title: "iOS内存管理深度解析：ARC、内存泄漏检测与性能优化实战指南"
 date: 2024-04-10
 categories: ios
-tags: [ARC, 内存泄漏, Instruments, 性能调优]
+tags: [iOS, ARC]
 author: iOS技术专家
 description: "深入探讨iOS内存管理机制，包括ARC原理、内存泄漏检测、性能优化策略和实战技巧，帮助开发者构建高效稳定的iOS应用。"
 keywords: [iOS内存管理, ARC, 内存泄漏, Instruments, 性能优化, 引用计数]

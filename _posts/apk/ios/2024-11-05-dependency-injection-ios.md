@@ -2,8 +2,8 @@
 layout: post
 title: iOS 依赖注入模式与 Swinject 实战
 categories: ios
-tags: [依赖注入, Swinject, DI, iOS, 架构]
-date: 2024/11/5 15:30:00
+tags: [iOS, 依赖注入]
+date: 2024-11-05
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_054.jpg)

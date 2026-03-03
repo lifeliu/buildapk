@@ -2,8 +2,8 @@
 layout: post
 title: UIKit 与 SwiftUI 混合开发与桥接
 categories: ios
-tags: [UIKit, SwiftUI, UIHostingController, UIViewRepresentable, 混合开发]
-date: 2025/2/19 11:00:00
+tags: [UIKit, SwiftUI]
+date: 2025-02-19
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_067.jpg)

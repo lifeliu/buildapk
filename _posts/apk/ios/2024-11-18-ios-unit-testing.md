@@ -2,8 +2,8 @@
 layout: post
 title: iOS 单元测试完全指南
 categories: ios
-tags: [单元测试, XCTest, Mock, iOS, 测试]
-date: 2024/11/18 10:00:00
+tags: [iOS, 单元测试]
+date: 2024-11-18
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_055.jpg)

@@ -2,8 +2,8 @@
 layout: post
 title: iOS MapKit 地图开发完全指南
 categories: ios
-tags: [MapKit, 地图, MKMapView, 标注, iOS]
-date: 2024/12/26 14:00:00
+tags: [iOS, MapKit]
+date: 2024-12-26
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_060.jpg)

@@ -2,8 +2,8 @@
 layout: post
 title: iOS 相机与相册开发完全指南
 categories: ios
-tags: [相机, 相册, UIImagePickerController, PHPicker, Photos]
-date: 2025/1/29 14:30:00
+tags: [iOS, 相机]
+date: 2025-01-29
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_064.jpg)

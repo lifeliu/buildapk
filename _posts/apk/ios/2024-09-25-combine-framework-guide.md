@@ -2,8 +2,8 @@
 layout: post
 title: iOS Combine 响应式编程框架完全指南
 categories: ios
-tags: [Combine, 响应式编程, Publisher, Subscriber, iOS]
-date: 2024/9/25 14:30:00
+tags: [iOS, Combine]
+date: 2024-09-25
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_051.jpg)

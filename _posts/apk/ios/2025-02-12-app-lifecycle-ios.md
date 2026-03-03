@@ -2,8 +2,8 @@
 layout: post
 title: iOS 应用生命周期完全解析
 categories: ios
-tags: [应用生命周期, AppDelegate, SceneDelegate, 状态转换, iOS]
-date: 2025/2/12 09:30:00
+tags: [iOS, 应用生命周期]
+date: 2025-02-12
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_066.jpg)

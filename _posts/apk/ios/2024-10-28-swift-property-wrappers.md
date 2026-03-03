@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Swift 属性包装器完全指南
+title: Swift属性包装器完全指南
 categories: ios
-tags: [属性包装器, Property Wrapper, Swift, @State, @Published]
-date: 2024/10/28 11:00:00
+tags: [属性包装器, PropertyWrapper]
+date: 2024-10-28
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_053.jpg)

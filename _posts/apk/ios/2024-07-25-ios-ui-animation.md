@@ -3,7 +3,7 @@ layout: post
 title: "iOS UI动画深度解析：Core Animation、UIView动画与高级动效实战指南"
 date: 2024-07-25
 categories: ios
-tags: [iOS, Swift, Objective-C, Core Animation, UIView Animation, 动画效果, 性能优化]
+tags: [iOS, Core Animation]
 author: "iOS技术专家"
 description: "深入探讨iOS UI动画开发的核心技术，包括Core Animation框架、UIView动画系统、高级动效实现和性能优化策略，提供完整的动画开发解决方案。"
 keywords: "iOS动画, Core Animation, UIView动画, CALayer, 动画性能, 动效设计, iOS开发"

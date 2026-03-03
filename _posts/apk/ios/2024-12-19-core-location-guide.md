@@ -2,8 +2,8 @@
 layout: post
 title: iOS Core Location 定位服务完全指南
 categories: ios
-tags: [Core Location, 定位, CLLocationManager, 地理围栏, iOS]
-date: 2024/12/19 10:30:00
+tags: [iOS, Core Location]
+date: 2024-12-19
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_059.jpg)

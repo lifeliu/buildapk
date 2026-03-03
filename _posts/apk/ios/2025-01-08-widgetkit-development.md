@@ -2,8 +2,8 @@
 layout: post
 title: iOS WidgetKit 小组件开发完全指南
 categories: ios
-tags: [WidgetKit, 小组件, Widget Extension, iOS]
-date: 2025/1/8 10:00:00
+tags: [iOS, WidgetKit]
+date: 2025-01-08
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_061.jpg)

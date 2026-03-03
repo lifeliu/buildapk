@@ -2,8 +2,8 @@
 layout: post
 title: iOS APNs 推送通知完全指南
 categories: ios
-tags: [APNs, 推送通知, 远程通知, iOS, UserNotifications]
-date: 2024/12/5 09:30:00
+tags: [iOS, APNs]
+date: 2024-12-05
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_057.jpg)

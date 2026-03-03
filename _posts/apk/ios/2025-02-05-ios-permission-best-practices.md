@@ -2,8 +2,8 @@
 layout: post
 title: iOS 权限请求最佳实践
 categories: ios
-tags: [权限, Privacy, Info.plist, 用户隐私, iOS]
-date: 2025/2/5 10:00:00
+tags: [iOS, 权限]
+date: 2025-02-05
 ---
 
 ![title](https://image.sideproject.cn/titlex/titlex_065.jpg)
