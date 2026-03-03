@@ -6,7 +6,7 @@ tags: [MVVM, 架构模式, Android, ViewModel, DataBinding]
 date: 2023/8/12 16:45:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_mvvm.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_120.jpg)
 
 ## 引言
 

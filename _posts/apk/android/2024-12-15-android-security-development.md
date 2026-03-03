@@ -6,7 +6,7 @@ tags: [安全开发, Android, 加密, 权限管理, 代码混淆]
 date: 2024/12/15 17:30:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_security.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_152.jpg)
 
 ## 引言
 

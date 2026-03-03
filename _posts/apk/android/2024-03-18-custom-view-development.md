@@ -6,7 +6,7 @@ tags: [自定义View, Android, UI开发, Canvas, 绘制]
 date: 2024/3/18 15:25:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_customview.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_012.jpg)
 
 ## 引言
 

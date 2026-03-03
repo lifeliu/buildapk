@@ -6,7 +6,7 @@ tags: [Flutter, 动画, Animation, Tween, AnimationController]
 date: 2023/7/5 16:45:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_flutter_animation.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_006.jpg)
 
 ## 引言
 

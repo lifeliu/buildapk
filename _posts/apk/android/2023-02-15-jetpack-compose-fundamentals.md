@@ -6,7 +6,7 @@ tags: [Jetpack Compose, Android, UI, 声明式编程]
 date: 2023/2/15 10:30:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_compose.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_010.jpg)
 
 ## 引言
 

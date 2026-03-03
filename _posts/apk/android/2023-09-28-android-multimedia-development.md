@@ -6,7 +6,7 @@ tags: [多媒体, Android, 音频, 视频, 相机]
 date: 2023/9/28 11:15:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_multimedia.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_121.jpg)
 
 ## 引言
 

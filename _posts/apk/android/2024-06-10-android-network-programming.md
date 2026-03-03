@@ -6,7 +6,7 @@ tags: [网络编程, Android, HTTP, OkHttp, Retrofit]
 date: 2024/6/10 08:50:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_network.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_123.jpg)
 
 ## 引言
 

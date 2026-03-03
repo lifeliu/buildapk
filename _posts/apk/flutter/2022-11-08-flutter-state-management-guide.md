@@ -6,7 +6,7 @@ tags: [Flutter, 状态管理, Provider, Bloc, Riverpod, GetX]
 date: 2022/11/8 10:20:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_flutter_state.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_004.jpg)
 
 ## 引言
 

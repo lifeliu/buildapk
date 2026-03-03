@@ -6,7 +6,7 @@ tags: [Flutter, 性能优化, 渲染优化, 内存管理, 启动优化]
 date: 2023/4/12 09:15:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_flutter_performance.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_005.jpg)
 
 ## 引言
 

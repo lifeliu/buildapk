@@ -6,7 +6,7 @@ tags: [Flutter, 架构, Dart, 渲染引擎, Skia]
 date: 2022/3/15 14:30:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_flutter_architecture.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_002.jpg)
 
 ## 引言
 

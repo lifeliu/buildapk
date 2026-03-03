@@ -6,7 +6,7 @@ tags: [性能优化, Android, 内存管理, CPU优化]
 date: 2023/11/8 09:30:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_performance.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_130.jpg)
 
 ## 引言
 

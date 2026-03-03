@@ -2796,15 +2796,15 @@ No additional permissions required for basic functionality.
 
 ## API Reference
 
-For detailed API documentation, see [API Documentation](https://pub.dev/documentation/device_info_plugin/latest/).
+For detailed API documentation, see [API Documentation](https://pub.dev).
 
 ## Contributing
 
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details.
+Contributions are welcome! Please read our Contributing Guide for details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
 #### 4. 发布命令

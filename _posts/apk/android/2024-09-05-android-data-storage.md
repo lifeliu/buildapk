@@ -6,7 +6,7 @@ tags: [数据存储, Android, SharedPreferences, SQLite, 缓存]
 date: 2024/9/5 12:10:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_storage.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_151.jpg)
 
 ## 引言
 

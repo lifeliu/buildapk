@@ -6,7 +6,7 @@ tags: [Room, 数据库, Android, SQLite, ORM]
 date: 2024/1/25 13:40:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_room.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_150.jpg)
 
 ## 引言
 
