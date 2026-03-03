@@ -6,7 +6,7 @@ tags: APP
 date: 2022/11/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_241.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_069.jpg)
 
 iOS原生开发需要掌握的技术包括以下几个方面：
 

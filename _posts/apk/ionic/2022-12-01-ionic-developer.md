@@ -6,7 +6,7 @@ tags: APP
 date: 2022/12/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_240.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_076.jpg)
 
 Ionic是一个使用Web技术栈开发跨平台移动应用的框架，它基于Angular和Apache Cordova构建。以下是Ionic开发需要掌握的技术：
 

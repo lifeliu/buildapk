@@ -6,7 +6,7 @@ tags: APP
 date: 2022/7/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_250.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_079.jpg)
 
 Xamarin是一种使用C#语言开发跨平台移动应用的框架，它可以使用共享代码库构建原生应用程序。以下是Xamarin开发需要掌握的技术：
 

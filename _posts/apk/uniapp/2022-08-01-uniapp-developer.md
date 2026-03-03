@@ -6,7 +6,7 @@ tags: APP
 date: 2022/8/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_244.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_078.jpg)
 
 UniApp是一种基于Vue.js的跨平台应用开发框架，可以用来开发小程序、H5、App等多种应用。以下是UniApp开发需要掌握的技术：
 

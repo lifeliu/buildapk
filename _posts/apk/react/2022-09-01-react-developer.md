@@ -6,7 +6,7 @@ tags: APP
 date: 2022/9/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_243.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_077.jpg)
 
 React Native是一种使用JavaScript语言开发跨平台移动应用的框架。以下是React Native开发需要掌握的技术：
 

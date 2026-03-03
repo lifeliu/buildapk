@@ -6,7 +6,7 @@ tags: APP
 date: 2022/05/01 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_218.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_070.jpg)
 
 跨平台开发 App 的技术和工具很多，以下是其中一些比较流行的：
 

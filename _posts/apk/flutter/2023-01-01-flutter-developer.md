@@ -6,7 +6,7 @@ tags: APP
 date: 2023/1/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_239.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_028.jpg)
 
 Flutter是一个由Google开发的跨平台移动应用程序框架，使用Dart编程语言，它可以让开发者使用同一套代码在iOS和Android两个平台上开发高质量、快速的应用程序。下面是Flutter开发需要掌握的技术：
 

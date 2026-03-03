@@ -6,7 +6,7 @@ tags: APP
 date: 2022/05/03 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_220.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_072.jpg)
 
 UniApp 是一款跨平台开发框架，可以用于创建 iOS、Android 和 Web 应用程序。它基于 Vue.js 开发，并结合了各种原生应用程序框架，例如微信小程序、百度智能小程序、支付宝小程序等，使开发人员可以用一种代码库创建多个平台的应用程序。
 

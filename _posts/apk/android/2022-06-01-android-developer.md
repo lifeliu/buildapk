@@ -6,7 +6,7 @@ tags: APP
 date: 2022/6/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_238.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_049.jpg)
 
 **Android原生开发需要掌握以下技术**：
 

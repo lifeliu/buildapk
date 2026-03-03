@@ -6,7 +6,7 @@ tags: APP
 date: 2022/10/1 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_242.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_001.jpg)
 
 小程序是一种基于微信生态的应用程序，它可以在微信内部直接运行，无需下载和安装。小程序开发需要掌握以下技术：
 

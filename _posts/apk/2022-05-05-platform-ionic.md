@@ -6,7 +6,7 @@ tags: APP
 date: 2022/05/05 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_222.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_074.jpg)
 
 Ionic 是一个基于 Web 技术的跨平台移动应用程序开发框架，使用 Angular 和 TypeScript 构建。它提供了一组丰富的 UI 组件和工具，可以轻松地开发高质量的混合应用程序，同时支持 Android、iOS 和 Web 等多种平台。
 

@@ -6,7 +6,7 @@ tags: APP
 date: 2022/05/02 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_219.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_071.jpg)
 
 Flutter 是一种由 Google 开发的移动应用开发框架，它允许开发人员使用单一代码库构建高性能、美观且原生化的应用程序，可以在 iOS、Android、Web、桌面等多个平台上运行。下面是 Flutter 平台的详细介绍：
 

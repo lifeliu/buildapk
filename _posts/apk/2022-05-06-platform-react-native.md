@@ -6,7 +6,7 @@ tags: APP
 date: 2022/05/06 22:00:00
 ---
 
-![title](https://image.sideproject.cn/titlex/titlex_223.jpg)
+![title](https://image.sideproject.cn/titlex/titlex_075.jpg)
 
 React Native 是 Facebook 开发的一个开源框架，用于创建 iOS 和 Android 应用程序，使开发者能够使用 JavaScript 和 React 的开发方式来编写原生应用程序。React Native 通过使用原生的 UI 组件来实现高性能的移动应用程序，并且可以与现有的代码进行集成。
 
